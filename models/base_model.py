@@ -63,4 +63,3 @@ class BaseModel:
                 v = self.__dict__[k].isoformat()
                 dict_1[k] = v
         return dict_1
-
