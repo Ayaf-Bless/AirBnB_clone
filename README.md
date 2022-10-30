@@ -1,5 +1,5 @@
 # the AirBnB project clone
 
-this project is done between two ALX SE students
+This project is a collaborative work done between two ALX SE students
 - Bless Ayaf
 - Barisua Nsaanee
