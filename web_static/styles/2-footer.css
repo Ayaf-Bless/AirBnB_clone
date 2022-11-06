@@ -1,5 +1,5 @@
 footer {
-      background-color: white;
+      background-color: #00ff00;
       height: 60px;
       width: 100%;
       bottom: 0;
@@ -7,6 +7,4 @@ footer {
       display: flex;
       justify-content: center;
       line-height: 60px;
-      border-top: 1px solid #CCCCCC;
 }
-
